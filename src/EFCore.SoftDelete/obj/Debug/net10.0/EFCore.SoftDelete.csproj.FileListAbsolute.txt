@@ -1,0 +1,11 @@
+/Users/vedransunjic/Desktop/SoftDelete/src/EFCore.SoftDelete/bin/Debug/net10.0/EFCore.SoftDelete.deps.json
+/Users/vedransunjic/Desktop/SoftDelete/src/EFCore.SoftDelete/bin/Debug/net10.0/EFCore.SoftDelete.dll
+/Users/vedransunjic/Desktop/SoftDelete/src/EFCore.SoftDelete/bin/Debug/net10.0/EFCore.SoftDelete.pdb
+/Users/vedransunjic/Desktop/SoftDelete/src/EFCore.SoftDelete/obj/Debug/net10.0/EFCore.SoftDelete.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vedransunjic/Desktop/SoftDelete/src/EFCore.SoftDelete/obj/Debug/net10.0/EFCore.SoftDelete.AssemblyInfoInputs.cache
+/Users/vedransunjic/Desktop/SoftDelete/src/EFCore.SoftDelete/obj/Debug/net10.0/EFCore.SoftDelete.AssemblyInfo.cs
+/Users/vedransunjic/Desktop/SoftDelete/src/EFCore.SoftDelete/obj/Debug/net10.0/EFCore.SoftDelete.csproj.CoreCompileInputs.cache
+/Users/vedransunjic/Desktop/SoftDelete/src/EFCore.SoftDelete/obj/Debug/net10.0/EFCore.SoftDelete.dll
+/Users/vedransunjic/Desktop/SoftDelete/src/EFCore.SoftDelete/obj/Debug/net10.0/refint/EFCore.SoftDelete.dll
+/Users/vedransunjic/Desktop/SoftDelete/src/EFCore.SoftDelete/obj/Debug/net10.0/EFCore.SoftDelete.pdb
+/Users/vedransunjic/Desktop/SoftDelete/src/EFCore.SoftDelete/obj/Debug/net10.0/ref/EFCore.SoftDelete.dll

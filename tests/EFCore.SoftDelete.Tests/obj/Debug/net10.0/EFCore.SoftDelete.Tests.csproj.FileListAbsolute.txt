@@ -1,0 +1,15 @@
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/bin/Debug/net10.0/EFCore.SoftDelete.Tests.deps.json
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/bin/Debug/net10.0/EFCore.SoftDelete.Tests.dll
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/bin/Debug/net10.0/EFCore.SoftDelete.Tests.pdb
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/bin/Debug/net10.0/EFCore.SoftDelete.dll
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/bin/Debug/net10.0/EFCore.SoftDelete.pdb
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/EFCore.SoftDelete.Tests.csproj.AssemblyReference.cache
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/EFCore.SoftDelete.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/EFCore.SoftDelete.Tests.AssemblyInfoInputs.cache
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/EFCore.SoftDelete.Tests.AssemblyInfo.cs
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/EFCore.SoftDelete.Tests.csproj.CoreCompileInputs.cache
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/EFCore.S.23A4C31F.Up2Date
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/EFCore.SoftDelete.Tests.dll
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/refint/EFCore.SoftDelete.Tests.dll
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/EFCore.SoftDelete.Tests.pdb
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/ref/EFCore.SoftDelete.Tests.dll
