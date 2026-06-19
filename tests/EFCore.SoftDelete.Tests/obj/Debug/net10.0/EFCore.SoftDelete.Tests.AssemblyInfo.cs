@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFCore.SoftDelete.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cf5f037415836c15996a1093a29c9b3fc8f65ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb32047acb319d17c59eb389ec62d78fbc54c440")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFCore.SoftDelete.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFCore.SoftDelete.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

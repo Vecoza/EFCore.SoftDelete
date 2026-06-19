@@ -16,7 +16,7 @@ using System.Reflection;
     "ted = true, and hides deleted rows via a global query filter. Zero configuration" +
     " required."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cf5f037415836c15996a1093a29c9b3fc8f65ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb32047acb319d17c59eb389ec62d78fbc54c440")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFCore.SoftDelete")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFCore.SoftDelete")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
