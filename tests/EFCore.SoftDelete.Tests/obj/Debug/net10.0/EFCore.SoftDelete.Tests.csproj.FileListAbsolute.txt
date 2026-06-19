@@ -13,3 +13,4 @@
 /Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/refint/EFCore.SoftDelete.Tests.dll
 /Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/EFCore.SoftDelete.Tests.pdb
 /Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/ref/EFCore.SoftDelete.Tests.dll
+/Users/vedransunjic/Desktop/SoftDelete/tests/EFCore.SoftDelete.Tests/obj/Debug/net10.0/EFCore.SoftDelete.Tests.sourcelink.json
